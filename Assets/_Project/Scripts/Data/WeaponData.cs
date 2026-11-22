@@ -33,7 +33,7 @@ namespace LastOrders.Data
         public float hitStop = 0.04f;
         public float shake = 0.05f;
 
-        [Header("Week 2: durability and shop")]
+        [Header("Durability and shop")]
         [Tooltip("0 = never breaks (the cricket bat).")]
         public int durability = 0;
         public int price = 0;

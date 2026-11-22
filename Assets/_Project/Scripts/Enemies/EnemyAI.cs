@@ -45,7 +45,7 @@ namespace LastOrders.Enemies
         Coroutine attackRoutine;
         readonly HashSet<IDamageable> hitThisSwing = new();
 
-        /// <summary>Fired when this enemy dies. The wave spawner will use this in week 3.</summary>
+        /// <summary>Fired when this enemy dies. A wave spawner can listen for this later.</summary>
         public event Action<EnemyAI> Died;
 
         // Close enough that the front of the hitbox will reach the player.

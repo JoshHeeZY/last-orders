@@ -43,9 +43,9 @@ Hit them and you lose cash and rating. Some fakers headbutt you instead.
 Bat upgrades, pool cue, bin-lid shield, crisps/meat pie (heals), energy drink (speed), hi-vis vest (armour).
 
 ## Scope / roadmap
-- [x] **Week 1:** movement, combo, one enemy, hit feel
-- [ ] **Week 2:** weapon pickups and durability, heavy attack, combo counter UI
-- [ ] **Week 3:** enemy waves, 3 enemy types, enemies taking turns, huggers
-- [ ] **Week 4:** cash, inventory, shop, back-room hub, save/load
-- [ ] **Week 5:** comic cutscenes, stages 1–2, boss
-- [ ] **Week 6:** polish, audio, menus, WebGL build on itch.io, README GIFs
+- [x] **Core combat:** movement, combo, one enemy, hit feel
+- [ ] **Weapons:** weapon pickups and durability, heavy attack, combo counter UI
+- [ ] **Enemies:** enemy waves, 3 enemy types, enemies taking turns, huggers
+- [ ] **Economy:** cash, inventory, shop, back-room hub, save/load
+- [ ] **Story:** comic cutscenes, stages 1–2, boss
+- [ ] **Polish and release:** audio, menus, WebGL build on itch.io, README GIFs
